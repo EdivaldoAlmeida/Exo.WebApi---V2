@@ -1085,3 +1085,4 @@ C:\Users\ediva\OneDrive\Documentos\Cursos\SENAI - FULL STACK\Módulo II\Desenvol
 C:\Users\ediva\OneDrive\Documentos\Cursos\SENAI - FULL STACK\Módulo II\Desenvolvimento de API\04d - Atividade 4\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\ediva\OneDrive\Documentos\Cursos\SENAI - FULL STACK\Módulo II\Desenvolvimento de API\04d - Atividade 4\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\ediva\OneDrive\Documentos\Cursos\SENAI - FULL STACK\Módulo II\Desenvolvimento de API\04d - Atividade 4\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\ediva\OneDrive\Documentos\Cursos\SENAI - FULL STACK\Módulo II\Desenvolvimento de API\04d - Atividade 4\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
